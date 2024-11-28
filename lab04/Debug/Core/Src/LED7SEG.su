@@ -1,0 +1,5 @@
+../Core/Src/LED7SEG.c:11:6:display7SEG	16	static
+../Core/Src/LED7SEG.c:55:6:display7SEG_2	16	static
+../Core/Src/LED7SEG.c:99:6:update7SEG	16	static
+../Core/Src/LED7SEG.c:118:6:updateClockBuffer	4	static
+../Core/Src/LED7SEG.c:125:6:clearAllClock	8	static

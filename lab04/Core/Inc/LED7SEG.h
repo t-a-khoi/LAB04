@@ -8,7 +8,13 @@
 #ifndef INC_LED7SEG_H_
 #define INC_LED7SEG_H_
 
+#include "global.h"
 
+void display7SEG(int num);
+void display7SEG_2(int num);
+void update7SEG(int index);
+void updateClockBuffer();
+void clearAllClock();
 
 
 
